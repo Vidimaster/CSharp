@@ -1,0 +1,32 @@
+[
+    {
+        "Id": 1,
+        "Weight": 2,
+        "DeliveryTime": "2024-09-29 16:45:21",
+        "CityDistrict": "N1"
+    },
+    {
+        "Id": 2,
+        "Weight": 3,
+        "DeliveryTime": "2024-07-29 16:55:28",
+        "CityDistrict": "N2"
+    },
+    {
+        "Id": 3,
+        "Weight": 3,
+        "DeliveryTime": "2024-09-30 17:25:21",
+        "CityDistrict": "N3"
+    },
+    {
+        "Id": 4,
+        "Weight": 3,
+        "DeliveryTime": "2024-09-29 16:15:21",
+        "CityDistrict": "N3"
+    },
+    {
+        "Id": 5,
+        "Weight": 3,
+        "DeliveryTime": "2024-09-29 16:35:21",
+        "CityDistrict": "N3"
+    }
+]

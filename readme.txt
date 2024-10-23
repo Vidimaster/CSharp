@@ -1,6 +1,7 @@
 Консольное приложение запускается в Microsoft Visual Studio командой:
 
 dotnet run _cityDistrict "" _firstDeliveryDateTim "" _deliveryOrder "" _deliveryLog ""
+
  где:
  _cityDistrict --параметр района доставки;
  _firstDeliveryDateTime --время первой доставки в формате yyyy-MM-dd HH:mm:ss;
